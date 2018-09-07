@@ -1,0 +1,4 @@
+models_torch.py: CNN, CAML, DR_CAML and self-attention model
+learn_models_torch.py: train the model
+test_models_torch.py: test the model
+evaluations: define the evaluation measures
